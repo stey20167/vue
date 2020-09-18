@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <router-view/>
+    <h2>陈彩艳同学</h2>
   </div>
 </template>
 
